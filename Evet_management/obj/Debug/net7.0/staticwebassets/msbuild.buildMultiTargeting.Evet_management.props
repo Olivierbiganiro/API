@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Evet_management.props" />
+</Project>
